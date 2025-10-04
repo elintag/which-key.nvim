@@ -20,6 +20,7 @@ M.rules = {
   { plugin = "yanky.nvim", icon = "󰅇", color = "yellow" },
   { plugin = "zen-mode.nvim", icon = "󱅻 ", color = "cyan" },
   { plugin = "telescope.nvim", pattern = "telescope", icon = "", color = "blue" },
+  { plugin = "sf.nvim", pattern = "[SF CLI]", icon = "", color = "blue" },
   { plugin = "trouble.nvim", cat = "filetype", name = "trouble" },
   { plugin = "todo-comments.nvim", cat = "file", name = "TODO" },
   { plugin = "grapple.nvim", pattern = "grapple", icon = "󰛢", color = "azure" },
